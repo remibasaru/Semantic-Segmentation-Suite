@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+libs/models/inceptionnet/
+libs/models/mobilenet_v2/
+libs/models/res_net/
+libs/models/vgg16/
